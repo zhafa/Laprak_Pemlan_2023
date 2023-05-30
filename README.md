@@ -12,6 +12,9 @@ Penggunaan ini sepenuhnya menggunakan bahasa Java.
 
 ## Development
 *Nama :* zhafa anbiya ananta farrel
+
 *Universitas :* Universitas Brawijaya
+
 *NIM :* 225150401111008
+
 *Kelas :* SI - B
